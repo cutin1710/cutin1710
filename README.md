@@ -20,4 +20,4 @@
 </div>
 
 ## Contato
--gcutinfreelas@gmail.com
+- gcutinfreelas@gmail.com
