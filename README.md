@@ -20,4 +20,4 @@
 </div>
 
 ## Contato
--[Email](gcutinfreelas@gmail.com)
+-gcutinfreelas@gmail.com
